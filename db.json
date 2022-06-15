@@ -1,10 +1,9 @@
 {
   "users": [
-    { "id": 1,
-     "FirstName": "nisha",
-    "LastName":"kadam"
+    {
+      "id": 1,
+      "FirstName": "nisha",
+      "LastName":"kadam"
     },
-   
   ]
- 
 }
